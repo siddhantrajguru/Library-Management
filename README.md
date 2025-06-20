@@ -16,11 +16,21 @@ A simple command-line library management system built in Python that allows you 
 - Python 3.6 or higher
 - No external dependencies required (uses only built-in Python modules)
 
-## 🚀 Installation
+🚀 Installation
 
-1. Clone this repository or download the Python file
-2. Run the program using Python 3.6 or higher
+Clone this repository:
 
+```bash
+git clone https://github.com/siddhantrajguru/Library-Management.git
+```
+```
+cd Library-Management
+```
+Run the program:
+
+```
+python library-management.py
+```
 ## 💻 Usage
 
 When you run the program, you'll see a menu with 6 options for managing your library books.
