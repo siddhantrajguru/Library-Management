@@ -1,0 +1,9 @@
+{
+    "books": {
+        "1234": {
+            "title": "xyz",
+            "available": true
+        }
+    },
+    "issued": {}
+}
